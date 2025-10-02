@@ -1,5 +1,5 @@
 # Project Demo
-[link](https://hometown-dusai.netlify.app/)
+View the project demo [here](https://hometown-dusai.netlify.app/)
 
 
 # Getting Started
